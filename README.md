@@ -42,3 +42,13 @@ FULL HOME PAGE IS SHOWN IN 2 DIFFRENT PICTURES.
 ## 7) FOOTER
 
 ![FOOTER IMAGE](https://github.com/ShivankGouttam/finalpro/assets/135975968/477d525d-f314-450d-9bb7-06d4ccf3d770)
+
+## 8) YOTUBE VIDEO THAT I MADE TO SHOW THE PROJECT
+
+
+
+## 9) AZURE PORTAL PROJECT SCREENSHOT.
+
+![AZURE PORTAL SCREENSHOT](https://github.com/ShivankGouttam/finalpro/assets/135975968/c44270cf-c447-419d-b9d6-ac787c9306fa)
+
+
